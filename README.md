@@ -17,11 +17,13 @@ End the program
 #Program to find the solution for the given linear equations.
 #Developed by:rohith r
 #RegisterNumber:212222230121
+```
 import numpy as np
 A = np.array([[1,3],[2,5]])
 B = np.array([5,-3])
 sol = np.linalg.solve(A,B)
 print(sol)
+```
 ## Output:
 ![KABILAN](https://github.com/Rohithravi333/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/119394126/2cb7d799-6d7d-4b23-9a84-49935698b12d)
 
